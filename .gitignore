@@ -1,0 +1,5 @@
+/.gitignore
+/plant-frontend/node_modules
+/plant-frontend/package-lock.json
+/plant-backend/node_modules
+/plant-backend/package-lock.json
